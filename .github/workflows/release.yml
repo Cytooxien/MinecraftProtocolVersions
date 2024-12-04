@@ -1,4 +1,4 @@
-name: MC Protocol Versions
+name: Update Release Versions
 
 on:
   workflow_dispatch:
@@ -15,7 +15,7 @@ jobs:
         with:
           python-version: 3.10.7
       - name: Install requests
-        run: pip install -r
+        run: pip install -r requirements.txt
       - name: Execute program
         run: python src/app.py release
         id: execute-program
