@@ -21,18 +21,23 @@ def get_file_path(version_type: str):
 
 def extract_names_from_json(json_array):
     """
-    Extracts all values of the 'name' field from a JSON array of objects.
+    Extracts all 'name' and, if applicable, 'id' values from a JSON array of objects,
+    returning a list of strings. Includes 'id' only if it exists and is not the same as 'name'.
 
     Args:
         json_array (list): A list of JSON objects.
 
     Returns:
-        list: A list of values corresponding to the 'name' field.
+        list: A list of strings containing 'name' and optionally 'id'.
     """
     try:
-        # Extrahiere die Werte des Felds 'name'
-        names = [item["name"] for item in json_array if "name" in item]
-        return names
+        result = []
+        for item in json_array:
+            if "name" in item:
+                result.append(item["name"])
+                if "id" in item and item["id"] != item["name"]:
+                    result.append(item["id"])
+        return result
     except (TypeError, KeyError) as e:
         print(f"An error occurred: {e}")
         return []
