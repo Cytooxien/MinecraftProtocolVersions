@@ -1,4 +1,6 @@
 import argparse
+from audioop import reverse
+
 from data import load_version_file
 from download import *
 from src.data import extract_names_from_json, save_version_file
@@ -27,9 +29,9 @@ def run(version_type: str):
     if len(missing_versions) == 0:
         exit(0)
 
-    for (version, url) in missing_versions.items():
+    for (version, url) in reversed(missing_versions.items()):
         print("Downloading minecraft version {}...".format(version))
-        version_data.append(download_client_version(version, url))
+        version_data.insert(0, download_client_version(version, url))
 
     added_versions = ",".join(missing_versions)
     os.system(f"echo Added Versions: {added_versions} >> $GITHUB_STEP_SUMMARY")
