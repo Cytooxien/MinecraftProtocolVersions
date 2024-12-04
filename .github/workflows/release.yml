@@ -18,8 +18,8 @@ jobs:
         run: pip install -r requirements.txt
       - name: Execute program
         run: |
-          - export PYTHONPATH="$PYTHONPATH:$PWD"
-          - python src/app.py release
+          export PYTHONPATH="$PYTHONPATH:$PWD"
+          python src/app.py release
         id: execute-program
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
