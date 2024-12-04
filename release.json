@@ -1,0 +1,653 @@
+[
+    {
+        "id": "1.21.4",
+        "name": "1.21.4",
+        "world_version": 4189,
+        "series_id": "main",
+        "protocol_version": 769,
+        "pack_version": {
+            "resource": 46,
+            "data": 61
+        },
+        "build_time": "2024-12-03T10:09:48+00:00",
+        "java_component": "java-runtime-delta",
+        "java_version": 21,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.21.3",
+        "name": "1.21.3",
+        "world_version": 4082,
+        "series_id": "main",
+        "protocol_version": 768,
+        "pack_version": {
+            "resource": 42,
+            "data": 57
+        },
+        "build_time": "2024-10-23T12:25:27+00:00",
+        "java_component": "java-runtime-delta",
+        "java_version": 21,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.21.2",
+        "name": "1.21.2",
+        "world_version": 4080,
+        "series_id": "main",
+        "protocol_version": 768,
+        "pack_version": {
+            "resource": 42,
+            "data": 57
+        },
+        "build_time": "2024-10-22T09:55:49+00:00",
+        "java_component": "java-runtime-delta",
+        "java_version": 21,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.21.1",
+        "name": "1.21.1",
+        "world_version": 3955,
+        "series_id": "main",
+        "protocol_version": 767,
+        "pack_version": {
+            "resource": 34,
+            "data": 48
+        },
+        "build_time": "2024-08-08T12:21:55+00:00",
+        "java_component": "java-runtime-delta",
+        "java_version": 21,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.21",
+        "name": "1.21",
+        "world_version": 3953,
+        "series_id": "main",
+        "protocol_version": 767,
+        "pack_version": {
+            "resource": 34,
+            "data": 48
+        },
+        "build_time": "2024-06-13T08:21:21+00:00",
+        "java_component": "java-runtime-delta",
+        "java_version": 21,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.20.6",
+        "name": "1.20.6",
+        "world_version": 3839,
+        "series_id": "main",
+        "protocol_version": 766,
+        "pack_version": {
+            "resource": 32,
+            "data": 41
+        },
+        "build_time": "2024-04-29T12:38:06+00:00",
+        "java_component": "java-runtime-delta",
+        "java_version": 21,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.20.5",
+        "name": "1.20.5",
+        "world_version": 3837,
+        "series_id": "main",
+        "protocol_version": 766,
+        "pack_version": {
+            "resource": 32,
+            "data": 41
+        },
+        "build_time": "2024-04-23T11:51:33+00:00",
+        "java_component": "java-runtime-delta",
+        "java_version": 21,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.20.4",
+        "name": "1.20.4",
+        "world_version": 3700,
+        "series_id": "main",
+        "protocol_version": 765,
+        "pack_version": {
+            "resource": 22,
+            "data": 26
+        },
+        "build_time": "2023-12-07T12:53:30+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.20.3",
+        "name": "1.20.3",
+        "world_version": 3698,
+        "series_id": "main",
+        "protocol_version": 765,
+        "pack_version": {
+            "resource": 22,
+            "data": 26
+        },
+        "build_time": "2023-12-04T12:04:50+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.20.2",
+        "name": "1.20.2",
+        "world_version": 3578,
+        "series_id": "main",
+        "protocol_version": 764,
+        "pack_version": {
+            "resource": 18,
+            "data": 18
+        },
+        "build_time": "2023-09-20T09:00:26+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true,
+        "use_editor": false
+    },
+    {
+        "id": "1.20.1",
+        "name": "1.20.1",
+        "world_version": 3465,
+        "series_id": "main",
+        "protocol_version": 763,
+        "pack_version": {
+            "resource": 15,
+            "data": 15
+        },
+        "build_time": "2023-06-12T13:23:26+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.20",
+        "name": "1.20",
+        "world_version": 3463,
+        "series_id": "main",
+        "protocol_version": 763,
+        "pack_version": {
+            "resource": 15,
+            "data": 15
+        },
+        "build_time": "2023-06-02T08:33:51+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.19.4",
+        "name": "1.19.4",
+        "world_version": 3337,
+        "series_id": "main",
+        "protocol_version": 762,
+        "pack_version": {
+            "resource": 13,
+            "data": 12
+        },
+        "build_time": "2023-03-14T12:53:56+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.19.3",
+        "name": "1.19.3",
+        "world_version": 3218,
+        "series_id": "main",
+        "protocol_version": 761,
+        "pack_version": {
+            "resource": 12,
+            "data": 10
+        },
+        "build_time": "2022-12-07T08:14:04+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.19.2",
+        "name": "1.19.2",
+        "release_target": "1.19.2",
+        "world_version": 3120,
+        "series_id": "main",
+        "protocol_version": 760,
+        "pack_version": {
+            "resource": 9,
+            "data": 10
+        },
+        "build_time": "2022-08-05T11:55:20+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.19.1",
+        "name": "1.19.1",
+        "release_target": "1.19.1",
+        "world_version": 3117,
+        "series_id": "main",
+        "protocol_version": 760,
+        "pack_version": {
+            "resource": 9,
+            "data": 10
+        },
+        "build_time": "2022-07-27T09:23:42+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.19",
+        "name": "1.19",
+        "release_target": "1.19",
+        "world_version": 3105,
+        "series_id": "main",
+        "protocol_version": 759,
+        "pack_version": {
+            "resource": 9,
+            "data": 10
+        },
+        "build_time": "2022-06-07T09:40:26+00:00",
+        "java_component": "java-runtime-gamma",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.18.2",
+        "name": "1.18.2",
+        "release_target": "1.18.2",
+        "world_version": 2975,
+        "series_id": "main",
+        "protocol_version": 758,
+        "pack_version": {
+            "resource": 8,
+            "data": 9
+        },
+        "build_time": "2022-02-28T10:40:37+00:00",
+        "java_component": "java-runtime-beta",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.18.1",
+        "name": "1.18.1",
+        "release_target": "1.18.1",
+        "world_version": 2865,
+        "series_id": "main",
+        "protocol_version": 757,
+        "pack_version": {
+            "resource": 8,
+            "data": 8
+        },
+        "build_time": "2021-12-10T08:21:01+00:00",
+        "java_component": "java-runtime-beta",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.18",
+        "name": "1.18",
+        "release_target": "1.18",
+        "world_version": 2860,
+        "series_id": "main",
+        "protocol_version": 757,
+        "pack_version": {
+            "resource": 8,
+            "data": 8
+        },
+        "build_time": "2021-11-30T09:14:30+00:00",
+        "java_component": "java-runtime-beta",
+        "java_version": 17,
+        "stable": true
+    },
+    {
+        "id": "1.17.1",
+        "name": "1.17.1",
+        "release_target": "1.17.1",
+        "world_version": 2730,
+        "protocol_version": 756,
+        "pack_version": {
+            "resource": 7,
+            "data": 7
+        },
+        "build_time": "2021-07-06T11:59:45+00:00",
+        "java_component": "java-runtime-alpha",
+        "java_version": 16,
+        "stable": true
+    },
+    {
+        "id": "1.17",
+        "name": "1.17",
+        "release_target": "1.17",
+        "world_version": 2724,
+        "protocol_version": 755,
+        "pack_version": {
+            "resource": 7,
+            "data": 7
+        },
+        "build_time": "2021-06-08T10:58:54+00:00",
+        "java_component": "java-runtime-alpha",
+        "java_version": 16,
+        "stable": true
+    },
+    {
+        "id": "1.16.5",
+        "name": "1.16.5",
+        "release_target": "1.16.5",
+        "world_version": 2586,
+        "protocol_version": 754,
+        "pack_version": 6,
+        "build_time": "2021-01-14T16:03:41+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.16.4",
+        "name": "1.16.4",
+        "release_target": "1.16.4",
+        "world_version": 2584,
+        "protocol_version": 754,
+        "pack_version": 6,
+        "build_time": "2020-10-29T15:47:51+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.16.3",
+        "name": "1.16.3",
+        "release_target": "1.16.3",
+        "world_version": 2580,
+        "protocol_version": 753,
+        "pack_version": 6,
+        "build_time": "2020-09-10T13:40:50+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.16.2",
+        "name": "1.16.2",
+        "release_target": "1.16.2",
+        "world_version": 2578,
+        "protocol_version": 751,
+        "pack_version": 6,
+        "build_time": "2020-08-11T10:11:57+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.16.1",
+        "name": "1.16.1",
+        "release_target": "1.16.1",
+        "world_version": 2567,
+        "protocol_version": 736,
+        "pack_version": 5,
+        "build_time": "2020-06-24T10:29:54+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.16",
+        "name": "1.16",
+        "release_target": "1.16",
+        "world_version": 2566,
+        "protocol_version": 735,
+        "pack_version": 5,
+        "build_time": "2020-06-23T16:19:09+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.15.2",
+        "name": "1.15.2",
+        "release_target": "1.15.2",
+        "world_version": 2230,
+        "protocol_version": 578,
+        "pack_version": 5,
+        "build_time": "2020-01-17T10:02:11+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.15.1",
+        "name": "1.15.1",
+        "release_target": "1.15.1",
+        "world_version": 2227,
+        "protocol_version": 575,
+        "pack_version": 5,
+        "build_time": "2019-12-16T10:28:09+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.15",
+        "name": "1.15",
+        "release_target": "1.15",
+        "world_version": 2225,
+        "protocol_version": 573,
+        "pack_version": 5,
+        "build_time": "2019-12-09T13:11:56+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.14.4",
+        "name": "1.14.4",
+        "release_target": "1.14.4",
+        "world_version": 1976,
+        "protocol_version": 498,
+        "pack_version": 4,
+        "build_time": "2019-07-19T09:24:08+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.14.3",
+        "name": "1.14.3",
+        "release_target": "1.14.3",
+        "world_version": 1968,
+        "protocol_version": 490,
+        "pack_version": 4,
+        "build_time": "2019-06-24T12:51:13+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.14.2 / f647ba8dc371474797bee24b2b312ff4",
+        "name": "1.14.2",
+        "release_target": "1.14.2",
+        "world_version": 1963,
+        "protocol_version": 485,
+        "pack_version": 4,
+        "build_time": "2019-05-27T11:46:41+00:00",
+        "stable": true
+    },
+    {
+        "id": "1.14.1 / a8f78b0d43c74598a199d6d80cda413f",
+        "name": "1.14.1",
+        "release_target": "1.14.1",
+        "world_version": 1957,
+        "protocol_version": 480,
+        "pack_version": 4,
+        "build_time": "2019-05-13T11:08:37+00:00",
+        "stable": false
+    },
+    {
+        "id": "1.14 / 5dac5567e13e46bdb0c1d90aa8d8b3f7",
+        "name": "1.14",
+        "release_target": "1.14",
+        "world_version": 1952,
+        "protocol_version": 477,
+        "pack_version": 4,
+        "build_time": "2019-04-23T14:51:09+00:00",
+        "stable": false
+    },
+    {
+        "name": "1.13.2"
+    },
+    {
+        "name": "1.13.1"
+    },
+    {
+        "name": "1.13"
+    },
+    {
+        "name": "1.12.2"
+    },
+    {
+        "name": "1.12.1"
+    },
+    {
+        "name": "1.12"
+    },
+    {
+        "name": "1.11.2"
+    },
+    {
+        "name": "1.11.1"
+    },
+    {
+        "name": "1.11"
+    },
+    {
+        "name": "1.10.2"
+    },
+    {
+        "name": "1.10.1"
+    },
+    {
+        "name": "1.10"
+    },
+    {
+        "name": "1.9.4"
+    },
+    {
+        "name": "1.9.3"
+    },
+    {
+        "name": "1.9.2"
+    },
+    {
+        "name": "1.9.1"
+    },
+    {
+        "name": "1.9"
+    },
+    {
+        "name": "1.8.9"
+    },
+    {
+        "name": "1.8.8"
+    },
+    {
+        "name": "1.8.7"
+    },
+    {
+        "name": "1.8.6"
+    },
+    {
+        "name": "1.8.5"
+    },
+    {
+        "name": "1.8.4"
+    },
+    {
+        "name": "1.8.3"
+    },
+    {
+        "name": "1.8.2"
+    },
+    {
+        "name": "1.8.1"
+    },
+    {
+        "name": "1.8"
+    },
+    {
+        "name": "1.7.10"
+    },
+    {
+        "name": "1.7.9"
+    },
+    {
+        "name": "1.7.8"
+    },
+    {
+        "name": "1.7.7"
+    },
+    {
+        "name": "1.7.6"
+    },
+    {
+        "name": "1.7.5"
+    },
+    {
+        "name": "1.7.4"
+    },
+    {
+        "name": "1.7.3"
+    },
+    {
+        "name": "1.7.2"
+    },
+    {
+        "name": "1.6.4"
+    },
+    {
+        "name": "1.6.2"
+    },
+    {
+        "name": "1.6.1"
+    },
+    {
+        "name": "1.5.2"
+    },
+    {
+        "name": "1.5.1"
+    },
+    {
+        "name": "1.4.7"
+    },
+    {
+        "name": "1.4.5"
+    },
+    {
+        "name": "1.4.6"
+    },
+    {
+        "name": "1.4.4"
+    },
+    {
+        "name": "1.4.2"
+    },
+    {
+        "name": "1.3.2"
+    },
+    {
+        "name": "1.3.1"
+    },
+    {
+        "name": "1.2.5"
+    },
+    {
+        "name": "1.2.4"
+    },
+    {
+        "name": "1.2.3"
+    },
+    {
+        "name": "1.2.2"
+    },
+    {
+        "name": "1.2.1"
+    },
+    {
+        "name": "1.1"
+    },
+    {
+        "name": "1.0"
+    }
+]
