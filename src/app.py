@@ -1,5 +1,4 @@
 import argparse
-from audioop import reverse
 
 from data import load_version_file
 from download import *
